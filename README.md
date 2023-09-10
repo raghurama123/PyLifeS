@@ -1,2 +1,45 @@
-# PyLifeScience
-A graduate-level elective course for life-science students
+# PyLifeScience :construction:
+
+This repository contains course materials prepared for the graduate-level elective course _Python Programming for Life Science Students_ to be offered during January-April 2024. Following is the tentative syllabus. 
+
+| Instructor                                         | Prerequisites                           | Credits | Duration                                      |
+|----------------------------------------------------|-----------------------------------------|---------|-----------------------------------------------|
+| Raghunathan Ramakrishnan, TIFR Hyderabad (ramakrishnan@tifrh.res.in) | Exposure to biology at the UG level | 2       | 12 x 2 hours (Combined theory and hands-on sessions) |
+
+
+## Part 1: Python basics
+- Check your computers, operating systems, Python installation/configuration, Jupyter notebooks
+- Data structures, functions, loops, input/output, file handling
+- Data visualization with matplotlib
+- Data analysis with pandas
+
+## Part 2: Scientific Programming
+- Numpy & Scipy
+- Modeling biological data with exponential and logarithmic functions, growth functions
+- Solving differential equations with Python: Enzyme kinetics (Michaelis-Menten Enzyme Kinetics, Lineweaver–Burk plot), Modeling infectious diseases (SIR model), Homeostasis
+
+## Part 3: Introduction to Biopython
+- Biopython data structures: Seq, SeqRecord, SeqFeature, and others. Reading and writing sequence data from and to different file formats using Biopython
+- Sequence manipulation and analysis using Biopython: translation, reverse complement, sequence alignment, motif finding, and more
+- BLAST searches and analysis using Biopython
+- Sequence annotation tools and data visualization
+
+## Part 4: Working with Biological Databases
+- Overview of biological databases and their role in bioinformatics
+- Retrieving and parsing data from common biological databases
+- Sequence and annotation data from biological databases
+
+## Part 5: Advanced Biopython Topics
+- Genomics: Next-generation sequencing data
+- Structural biology: parsing PDB files, working with structural data, and visualization
+- Machine learning and data mining
+- Bioinformatics workflows
+
+## Evaluation:
+
+3 x Combined theory and practicals test (best 2 will be considered)
+
+## References:  :books:
+1. Understanding Bioinformatics, Marketa Zvelebil, and Jeremy O. Baum (Garland Science, 2008)
+2. Bioinformatics Algorithms, Design and Implementation in Python, Miguel Rocha University of Minho, Braga, Portugal Pedro G. Ferreira (Academic Press, 2018)
+3. Computing Skills for Biologists, A toolbox, Stefano Allesina & Madlen Wilmes (Princeton University Press, 2019)
