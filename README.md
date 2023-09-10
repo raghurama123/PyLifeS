@@ -1,4 +1,4 @@
-# PyLifeScience :construction:
+# PyLifeS :construction:
 
 This repository contains course materials prepared for the graduate-level elective course _Python Programming for Life Science Students_ to be offered during January-April 2024. Following is the tentative syllabus. 
 
