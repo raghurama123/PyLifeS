@@ -40,6 +40,7 @@ This repository contains course materials prepared for the graduate-level electi
 3 x Combined theory and practicals test (best 2 will be considered)
 
 ## References:  :books:
-1. Understanding Bioinformatics, Marketa Zvelebil, and Jeremy O. Baum (Garland Science, 2008)
-2. Bioinformatics Algorithms, Design and Implementation in Python, Miguel Rocha University of Minho, Braga, Portugal Pedro G. Ferreira (Academic Press, 2018)
-3. Computing Skills for Biologists, A toolbox, Stefano Allesina & Madlen Wilmes (Princeton University Press, 2019)
+1. _Understanding Bioinformatics_, Marketa Zvelebil, and Jeremy O. Baum (Garland Science, 2008)
+2. _Bioinformatics Algorithms: Design and Implementation in Python_, Miguel Rocha University of Minho, Braga, Portugal Pedro G. Ferreira (Academic Press, 2018)
+3. _Computing Skills for Biologists: A toolbox_, Stefano Allesina & Madlen Wilmes (Princeton University Press, 2019)
+4. _Python for the Life Sciences: A Gentle Introduction to Python for Life Scientists_, Alexander Lancaster, Gordon Webster (Springer, 2019)
