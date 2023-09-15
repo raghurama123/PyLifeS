@@ -6,6 +6,7 @@ This repository contains course materials prepared for the graduate-level electi
 |:----------------------------------------------------|:-----------------------------------------|:---------|:-----------------------------------------------|
 | Raghunathan Ramakrishnan, TIFR Hyderabad (ramakrishnan@tifrh.res.in) | Exposure to biology at the UG level | 2       | 12 x 2 hours (Combined theory and hands-on sessions) |
 
+The repository contains a [wiki](https://github.com/raghurama123/PyLifeS/wiki) containing a lot of useful information! 
 
 ## Part 1: Python basics
 - Check your computers, operating systems, Python installation/configuration, Jupyter notebooks
