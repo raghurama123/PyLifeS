@@ -40,7 +40,7 @@ _NOTE:_ This repository has a [wiki](https://github.com/raghurama123/PyLifeS/wik
 
 3 x Combined theory and practicals test (best 2 will be considered)
 
-## References:  :books:
+## References books:     
 1. _Understanding Bioinformatics_, Marketa Zvelebil, and Jeremy O. Baum (Garland Science, 2008)
 2. _Bioinformatics Algorithms: Design and Implementation in Python_, Miguel Rocha University of Minho, Braga, Portugal Pedro G. Ferreira (Academic Press, 2018)
 3. _Computing Skills for Biologists: A toolbox_, Stefano Allesina & Madlen Wilmes (Princeton University Press, 2019)
