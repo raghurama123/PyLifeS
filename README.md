@@ -1,4 +1,4 @@
-# PyLifeS :construction:
+# PyLifeS 
 
 This repository contains course materials prepared for the graduate-level elective course _Python Programming for Life Science Students_ to be offered during January-April 2024. 
 
@@ -11,6 +11,8 @@ Following is the tentative syllabus.
 | Raghunathan Ramakrishnan, TIFR Hyderabad (ramakrishnan@tifrh.res.in) | Exposure to biology at the UG level | 2       | 12 x 2 hours (Combined theory and hands-on sessions) |
 
 _NOTE:_ This repository has a [wiki](https://github.com/raghurama123/PyLifeS/wiki) providing a lot of useful information! 
+
+🚧 This repository will be updated as the course progresses. 🚧
 
 ## Part 1: Python basics
 - Check your computers, operating systems, Python installation/configuration, Jupyter notebooks
