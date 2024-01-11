@@ -1,6 +1,10 @@
 # PyLifeS :construction:
 
-This repository contains course materials prepared for the graduate-level elective course _Python Programming for Life Science Students_ to be offered during January-April 2024. Following is the tentative syllabus. 
+This repository contains course materials prepared for the graduate-level elective course _Python Programming for Life Science Students_ to be offered during January-April 2024. 
+
+_Classes are on Fridays from 09.30 to 11.30 AM in Room No. 102, SLS Annex building of UoH (University of Hyderabad). The first class begins on 19 January 2024._
+
+Following is the tentative syllabus. 
 
 | Instructor                                         | Prerequisites                           | Credits | Duration                                      |
 |:----------------------------------------------------|:-----------------------------------------|:---------|:-----------------------------------------------|
