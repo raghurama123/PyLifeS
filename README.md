@@ -2,6 +2,13 @@
 
 This repository contains course materials prepared for the graduate-level elective course _Python Programming for Life Science Students_ to be offered during January-April 2024. 
 
+Click the image below to access the presentation PDF.
+
+![](https://github.com/raghurama123/PyLifeS/blob/main/PyLifeS.pdf)
+<a href="https://github.com/raghurama123/PyLifeS/blob/main/PyLifeS.pdf)">
+<img src="https://github.com/raghurama123/PyLifeS/blob/main/FirstPage.png"  height="400">
+</a>
+
 _Classes are on Fridays from 09.30 to 11.30 AM in Room No. 102, SLS Annex building of UoH (University of Hyderabad). The first class begins on 19 January 2024._
 
 Following is the tentative syllabus. 
@@ -53,10 +60,5 @@ _NOTE:_ This repository has a [wiki](https://github.com/raghurama123/PyLifeS/wik
 4. _Python for the Life Sciences: A Gentle Introduction to Python for Life Scientists_, Alexander Lancaster, Gordon Webster (Springer, 2019)
 5. _Linux for Developers_, William Bo Rothwell (Pearson, 2018). See the chapters about GitHub.
 
-Click the image below to access the presentation PDF.
 
-![](https://github.com/raghurama123/PyLifeS/blob/main/PyLifeS.pdf)
-<a href="https://github.com/raghurama123/PyLifeS/blob/main/PyLifeS.pdf)">
-<img src="https://github.com/raghurama123/PyLifeS/blob/main/FirstPage.png"  height="500">
-</a>
 
