@@ -5,7 +5,7 @@ This repository contains course materials prepared for the graduate-level electi
 Click the image below to access the presentation PDF.
 
 ![](https://github.com/raghurama123/PyLifeS/blob/main/PyLifeS.pdf)
-<a href="https://github.com/raghurama123/PyLifeS/blob/main/PyLifeS.pdf)">
+<a href="https://github.com/raghurama123/PyLifeS/blob/main/PyLifeS.pdf">
 <img src="https://github.com/raghurama123/PyLifeS/blob/main/FirstPage.png"  height="400">
 </a>
 
