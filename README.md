@@ -51,3 +51,12 @@ _NOTE:_ This repository has a [wiki](https://github.com/raghurama123/PyLifeS/wik
 2. _Bioinformatics Algorithms: Design and Implementation in Python_, Miguel Rocha University of Minho, Braga, Portugal Pedro G. Ferreira (Academic Press, 2018)
 3. _Computing Skills for Biologists: A toolbox_, Stefano Allesina & Madlen Wilmes (Princeton University Press, 2019)
 4. _Python for the Life Sciences: A Gentle Introduction to Python for Life Scientists_, Alexander Lancaster, Gordon Webster (Springer, 2019)
+5. _Linux for Developers_, William Bo Rothwell (Pearson, 2018). See the chapters about GitHub.
+
+Click the image below to access the presentation PDF.
+
+![](https://github.com/raghurama123/PyLifeS/blob/main/PyLifeS.pdf)
+<a href="https://github.com/raghurama123/PyLifeS/blob/main/PyLifeS.pdf)">
+<img src="https://github.com/raghurama123/PyLifeS/blob/main/FirstPage.png"  height="500">
+</a>
+
