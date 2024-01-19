@@ -4,8 +4,6 @@ This repository contains course materials prepared for the graduate-level electi
 
 _Classes are on Fridays from 09.30 to 11.30 AM in Room No. 102, SLS Annex building of UoH (University of Hyderabad). The first class begins on 19 January 2024._
 
-Following is the tentative syllabus. 
-
 | Instructor                                         | Prerequisites                           | Credits | Duration                                      |
 |:----------------------------------------------------|:-----------------------------------------|:---------|:-----------------------------------------------|
 | Raghunathan Ramakrishnan, TIFR Hyderabad (ramakrishnan@tifrh.res.in) | Exposure to biology at the UG level | 2       | 12 x 2 hours (Combined theory and hands-on sessions) |
@@ -13,6 +11,17 @@ Following is the tentative syllabus.
 _NOTE:_ This repository has a [wiki](https://github.com/raghurama123/PyLifeS/wiki) providing a lot of useful information! 
 
 🚧 This repository will be updated as the course progresses. 🚧
+
+***
+Click the image below to access the presentation PDF.  
+
+![](https://github.com/raghurama123/PyLifeS/blob/main/PyLifeS.pdf)
+<a href="https://github.com/raghurama123/PyLifeS/blob/main/PyLifeS.pdf">
+<img src="https://github.com/raghurama123/PyLifeS/blob/main/FirstPage.png"  height="400">
+</a>
+***
+
+Following is the tentative syllabus. 
 
 ## Part 1: Python basics
 - Check your computers, operating systems, Python installation/configuration, Jupyter notebooks
@@ -51,3 +60,7 @@ _NOTE:_ This repository has a [wiki](https://github.com/raghurama123/PyLifeS/wik
 2. _Bioinformatics Algorithms: Design and Implementation in Python_, Miguel Rocha University of Minho, Braga, Portugal Pedro G. Ferreira (Academic Press, 2018)
 3. _Computing Skills for Biologists: A toolbox_, Stefano Allesina & Madlen Wilmes (Princeton University Press, 2019)
 4. _Python for the Life Sciences: A Gentle Introduction to Python for Life Scientists_, Alexander Lancaster, Gordon Webster (Springer, 2019)
+5. _Linux for Developers_, William Bo Rothwell (Pearson, 2018). See the chapters about GitHub.
+
+
+
