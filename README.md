@@ -10,7 +10,7 @@ _Classes are on Fridays from 09.30 to 11.30 AM in Room No. 102, SLS Annex buildi
 
 _NOTE:_ This repository has a [wiki](https://github.com/raghurama123/PyLifeS/wiki) providing a lot of useful information! 
 
-🚧 This repository will be updated as the course progresses. 🚧
+🚧 This repository will be updated each year as the course progresses. 🚧
 
 ***
 Click the image below to access the presentation PDF.  
